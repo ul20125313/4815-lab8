@@ -1,0 +1,8 @@
+﻿  源.cpp
+G:\Project1\Project1\源.cpp(16,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+G:\Project1\Project1\源.cpp(20,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+G:\Project1\Project1\源.cpp(60,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+G:\Project1\Project1\源.cpp(64,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+G:\Project1\Project1\源.cpp(86,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+G:\Project1\Project1\源.cpp(90,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  Project1.vcxproj -> G:\Project1\Debug\Project1.exe
